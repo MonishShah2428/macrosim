@@ -1,0 +1,3 @@
+CREATE TABLE IF NOT EXISTS flyway_test (
+    id SERIAL PRIMARY KEY
+);
